@@ -1,7 +1,7 @@
   
 # 🚀 Telegram Auto Forward Bot  
 
-A **powerful** and **automated** Telegram bot designed to **log in**, **fetch messages**, and **auto-forward** them to multiple groups seamlessly! 🔄💬  
+A **powerful** and **automated** Telegram bot designed to **log in**, **fetch messages**, and **auto-forward** them to all joined groups seamlessly! 🔄💬  
 💝 bot-updated-V0.13.6 💝
 
 ---  
