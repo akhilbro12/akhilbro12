@@ -33,7 +33,7 @@ A **powerful** and **automated** Telegram bot designed to **log in**, **fetch me
 ### 1️⃣ Clone the Repository 🖥️  
 ```sh  
 git clone https://github.com/akhilbro12/telegramforwardbot.git  
-cd telegram-auto-forward-bot  
+cd telegramforwardbot  
 ```  
 
 ### 2️⃣ Install Dependencies 📦  
