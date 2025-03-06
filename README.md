@@ -40,6 +40,9 @@ A **powerful** and **automated** Telegram bot designed to **log in**, **fetch me
 
 4. **A Code Editor or Server** 💻  
    - Use **VS Code**, **PyCharm**, or a **VPS (Ubuntu, Termux, etc.)**.
+  
+5. **To be Forward Message** 🚩
+   - You must first send the message you want to forward to `@RealisticXX_bot`**.  
    - 
 ## 🛠️ Installation & Setup  
 
