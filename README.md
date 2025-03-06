@@ -27,7 +27,20 @@ A **powerful** and **automated** Telegram bot designed to **log in**, **fetch me
 - Optimized for **speed** and **low resource usage**.  
 
 ---  
+## ✅ Requirements  
 
+1. **A Telegram Account** 📱  
+   - Required to log in and forward messages.  
+
+2. **Telegram API Credentials** 🔑  
+   - Get your `API_ID` and `API_HASH` from [my.telegram.org](https://my.telegram.org/apps).  
+
+3. **Python Installed** 🐍  
+   - Install Python from [python.org](https://www.python.org/downloads/).  
+
+4. **A Code Editor or Server** 💻  
+   - Use **VS Code**, **PyCharm**, or a **VPS (Ubuntu, Termux, etc.)**.
+   - 
 ## 🛠️ Installation & Setup  
 
 ### 1️⃣ Clone the Repository 🖥️  
